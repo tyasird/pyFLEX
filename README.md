@@ -44,7 +44,7 @@ pip install python-flex
 or Install pyFLEX via git (to develop package in local)
 
 ```bash
-git clone https://github.com/tyasird/python-FLEX.git
+git clone https://github.com/tyasird/pyFLEX.git
 cd python-FLEX
 uv pip install -e .
 ```
